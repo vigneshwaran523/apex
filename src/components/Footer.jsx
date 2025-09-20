@@ -23,7 +23,7 @@ const Footer = () => {
 
           {/* WhatsApp clickable link */}
           <a
-            href="https://wa.me/918925301739"
+            href="https://wa.me/917200811328"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-gray-300 hover:text-green-400"
@@ -32,7 +32,7 @@ const Footer = () => {
           </a>
 
           <p className="flex items-center gap-2 text-gray-300">
-            <MapPin size={18} /> Balabgai Nagar, Rampuram, Chennai
+            <MapPin size={18} /> 1/2 Balambigai Nagar,1st Main Road ramapuram Chennai-600089
           </p>
         </div>
 

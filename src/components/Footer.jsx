@@ -28,7 +28,7 @@ const Footer = () => {
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-gray-300 hover:text-green-400"
           >
-            <MessageCircle size={18} /> WhatsApp: +91 89253 01739
+            <MessageCircle size={18} /> WhatsApp: +91 7200811328
           </a>
 
           <p className="flex items-center gap-2 text-gray-300">

@@ -5,8 +5,8 @@ const Hero = ({ blurAmount = "blur-md" }) => {
 
   const productImages = [
   { src: asserts.img1, name: "Aluminium Profile" },
-  { src: asserts.img2, name: "ABS Pipe & joints" },
-  { src: asserts.img3, name: " MS Square Tube" },
+  { src: asserts.img2, name: "MS Square Tube " },
+  { src: asserts.img3, name: "ABS Pipe & joints " },
   //{ src: asserts.img4, name: "panel steel" },
 ];
 
